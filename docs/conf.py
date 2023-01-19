@@ -11,8 +11,6 @@ import sys
 # sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(0, os.path.abspath('..'))
 
-# -- Project information -----------------------------------------------------
-
 project = 'django_cityloc_pkg'
 copyright = '2023, Author Name'
 author = 'Author Name'
